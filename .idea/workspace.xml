@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd6ce2e-1403-4f94-a598-2f67e52de674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Modules/Personalize_greeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Assignment2_Even_Odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modules/Assignment2_Sum_1_50.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/Mathematical_Operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/Mathematical_Operation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Assignment2_Even_Odd.executor": "Run",
+    "Python.Assignment2_Sum_1_50.executor": "Run",
     "Python.Mathematical_Operation.executor": "Run",
     "Python.Personalize_greeting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
