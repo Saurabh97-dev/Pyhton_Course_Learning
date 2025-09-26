@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fd6ce2e-1403-4f94-a598-2f67e52de674" name="Changes" comment="Module6" />
+
+    <!-- <list default="true" id="3fd6ce2e-1403-4f94-a598-2f67e52de674" name="Changes" comment="Module6" /> -->
+
+    <list default="true" id="3fd6ce2e-1403-4f94-a598-2f67e52de674" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Module 11/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module5/Output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
