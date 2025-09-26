@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd6ce2e-1403-4f94-a598-2f67e52de674" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Module4/Math_Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module4/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module 11/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module5/Output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +30,12 @@
   "keyToString": {
     "Python.Assignment2_Even_Odd.executor": "Run",
     "Python.Assignment2_Sum_1_50.executor": "Run",
+    "Python.Calculator.executor": "Run",
     "Python.Math_Module.executor": "Run",
     "Python.Mathematical_Operation.executor": "Run",
     "Python.Personalize_greeting.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
     "Python.factorial.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

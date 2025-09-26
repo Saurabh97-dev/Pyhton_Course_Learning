@@ -1,0 +1,11 @@
+userInput = input("Enter text to write to the file: ")
+fileWrite = open("Output.txt", "w")
+writing_file = fileWrite.write(userInput)
+print("Data successfully written to Output.txt.")
+fileWrite.close()
+
+userAppend = input("Enter additional text to append: ")
+fileAppend = open("Output.txt", "a")
+appending_file = fileAppend.write("\n" + userAppend)
+print("Data successfully appended.")
+fileAppend.close()
