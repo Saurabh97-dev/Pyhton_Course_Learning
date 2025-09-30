@@ -1,4 +1,4 @@
-# Python Student Tasks
+# Module 6 Tasks
 
 This repository contains two Python programs:
 
